@@ -1,0 +1,8 @@
+Added Component: Designator=E?(CT 8*12 - C)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片固态电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "下单链接"; Value = "https://item.taobao.com/item.htm?ft=t&id=613637044352"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "淘宝ID"; Value = "小糖豆的小窝窝"; VariantName = "[No Variations]"
+Added Component: Designator=IC1(SOP8_M)
+Added Member To Class: ClassName=Sheet1 Member=Component E? 10uF/10V
+Added Member To Class: ClassName=Sheet1 Member=Component E? 10uF/10V
+Added Room: Name=Sheet1
